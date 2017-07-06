@@ -1,0 +1,5 @@
+F:\socket\TimingPublish\DAL\bin\Debug\DAL.dll.config
+F:\socket\TimingPublish\DAL\bin\Debug\DAL.dll
+F:\socket\TimingPublish\DAL\bin\Debug\DAL.pdb
+F:\socket\TimingPublish\DAL\obj\Debug\DAL.dll
+F:\socket\TimingPublish\DAL\obj\Debug\DAL.pdb

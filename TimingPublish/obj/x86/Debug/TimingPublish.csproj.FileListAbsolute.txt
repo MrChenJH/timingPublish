@@ -1,0 +1,15 @@
+F:\socket\TimingPublish\TimingPublish\bin\Debug\TimingPublish.exe
+F:\socket\TimingPublish\TimingPublish\bin\Debug\TimingPublish.pdb
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.Properties.Resources.resources
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.csproj.GenerateResource.Cache
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.exe
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.pdb
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.csprojResolveAssemblyReference.cache
+F:\socket\TimingPublish\TimingPublish\obj\x86\Debug\TimingPublish.tpForm.resources
+F:\socket\TimingPublish\TimingPublish\bin\Debug\TimingPublish.exe.config
+F:\socket\TimingPublish\TimingPublish\bin\Debug\DAL.dll
+F:\socket\TimingPublish\TimingPublish\bin\Debug\Model.dll
+F:\socket\TimingPublish\TimingPublish\bin\Debug\Newtonsoft.Json.dll
+F:\socket\TimingPublish\TimingPublish\bin\Debug\DAL.pdb
+F:\socket\TimingPublish\TimingPublish\bin\Debug\Model.pdb
+F:\socket\TimingPublish\TimingPublish\bin\Debug\log4net.dll

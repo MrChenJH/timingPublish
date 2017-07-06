@@ -1,0 +1,4 @@
+F:\socket\TimingPublish\Model\bin\Debug\Model.dll
+F:\socket\TimingPublish\Model\bin\Debug\Model.pdb
+F:\socket\TimingPublish\Model\obj\Debug\Model.dll
+F:\socket\TimingPublish\Model\obj\Debug\Model.pdb
